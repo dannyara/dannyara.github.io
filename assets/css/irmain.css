@@ -1,0 +1,12 @@
+*{
+	font-family: "Lato", sans-serif;
+}
+body, header{
+	
+	font-size: 20px;
+}
+
+h1{
+	color: FireBrick;
+	font-size: 26px;
+}
