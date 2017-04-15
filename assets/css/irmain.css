@@ -1,12 +1,61 @@
 *{
-	font-family: "Lato", sans-serif;
+	font-family: "Lato", Ariel,sans-serif;
+	/* display: block; */
+	vertical-align: middle;
+	text-align: center;
+
 }
 body, header{
-	
+	background-color: DarkCyan;
+	margin-top: 20px;
 	font-size: 20px;
+	color: rgb(217,217,217);
+
+	/*vertical-align: baseline; */
+
+
 }
 
 h1{
 	color: FireBrick;
-	font-size: 26px;
+	font-size: 28px;
+	text-align: center;
+
 }
+h2{
+	font-weight: lighter;
+	font-size: 22px;
+	padding-top: 30px;
+}
+
+button{
+
+}
+a{
+	margin-top: 100px;
+}
+
+.button {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		/*background-color: #989898; */
+		border-radius: 5px;
+		border: 0;
+		color: #ffffff !important;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 700;
+		height: 2.75em;
+		line-height: 2.75em;
+		padding: 0 1.5em;
+		text-align: center;
+		text-decoration: none;
+		white-space: nowrap;
+		background-color: #4acaa8;
+	}
