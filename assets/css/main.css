@@ -2601,14 +2601,14 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
-		background-position: top right;
+		background-image: url("../../images/csedep.jpg");
+		background-position: top left;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
-		width: 100%;
+		height: 25em;
+		width: 110%;
 	}
 
 /* Footer */
